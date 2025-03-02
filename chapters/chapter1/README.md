@@ -59,7 +59,7 @@ for name in random_guide_names:
     print(name)
 ```
 
-让我们将其移到 Notebook 中，看看它是否真的可以执行。
+让我们将其移到 Notebook ，看看它是否真的可以执行。
 
 <center>
 <div style="width: 100%;">   <img src="./imgs/2_code_generatation_1.png" alt="Image" /> </div>
